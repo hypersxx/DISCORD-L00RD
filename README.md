@@ -1,5 +1,5 @@
 This Uses Mods to hack your name.
-#Installation
+
 git clone https://github.com/hypersxx/DISCORD-L00RD.git
 cd DISCORD-L00RD
 pip3 install requirements.txt
