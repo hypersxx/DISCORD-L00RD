@@ -1,0 +1,3 @@
+If when you load it, and it says "Ok Ok Ok" that means that you arent on the correct version of python.
+If it just closes Then It means it wont work on the allocated space and/or Device/OS/
+If it askes you to Put your name, it works!

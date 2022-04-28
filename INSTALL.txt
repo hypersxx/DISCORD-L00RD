@@ -1,0 +1,7 @@
+
+___________________________
+cd Downloads\L00RD\L00RD
+pip3 install requirements.txt
+python main.py
+____________________________
+Let It Load! 
